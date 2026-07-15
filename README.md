@@ -6,7 +6,7 @@ A full-stack **E-Commerce Management System** built using **Java, JSP, Servlets,
 
 ## Overview
 
-The Online E-Commerce Management System is designed to simulate a real-world online marketplace. It allows sellers to manage product listings, buyers to browse and purchase products, and administrators to oversee the entire platform.
+The E-Commerce Management System is designed to simulate a real-world online marketplace. It allows sellers to manage product listings, buyers to browse and purchase products, and administrators to oversee the entire platform.
 
 This project demonstrates the implementation of the **MVC Architecture**, database connectivity using **JDBC**, and server-side web development using **Java Servlets and JSP**.
 
@@ -61,7 +61,7 @@ This project demonstrates the implementation of the **MVC Architecture**, databa
 ## Project Structure
 
 ```
-Online-E-Commerce-Management-System
+E-Commerce-Management-System
 │
 ├── EcommerceSystem
 │   ├── src
