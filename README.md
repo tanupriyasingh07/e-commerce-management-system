@@ -1,4 +1,4 @@
-# Online E-Commerce Management System
+# E-Commerce Management System
 
 A full-stack **E-Commerce Management System** built using **Java, JSP, Servlets, JDBC, and MySQL**. The application provides a complete online shopping platform where **Buyers**, **Sellers**, and **Administrators** can efficiently manage products, orders, and users through dedicated dashboards.
 
